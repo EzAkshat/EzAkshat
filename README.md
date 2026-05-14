@@ -14,34 +14,24 @@
 ---
 
 ### About
-
-Fresher developer working across Python backends, AI integrations, and cybersecurity fundamentals. I enjoy building things end-to-end — from API design to figuring out how to break them. Currently learning how secure systems are built (and compromised).
+  
+Cybersecurity-focused learner with experience in Python backends and AI integrations. I enjoy understanding how systems are designed, how they can be exploited, and how they can be secured. Currently learning VAPT methodologies, OWASP Top 10, SIEM tools, and practical security assessment techniques.
 
 ---
 
 ### 🚀 Projects
 
-#### [Nuera AI Desktop Assistant](https://github.com/EzAkshat)
-> Local AI desktop app with real-time voice interaction powered by ElevenLabs TTS and LLM APIs.
+#### Nuera — AI Desktop Assistant
 
-- Modular architecture — voice input → LLM → synthesized speech output
-- ElevenLabs API for natural-sounding text-to-speech responses
-- Custom command routing layer for task handling
-- Built entirely in Python with async support for non-blocking I/O
+> Voice-driven AI assistant built across 3 services.
 
-`Python` `ElevenLabs API` `LLM Integration` `AsyncIO`
+| Repo | Role |
+|---|---|
+| [Nuera_App](https://github.com/EzAkshat/Nuera_App) | Desktop client — voice I/O, ElevenLabs TTS, LLM integration |
+| [Nuera_backend](https://github.com/EzAkshat/Nuera_backend) | Core API — request routing, LLM calls, business logic |
+| [Nuera_auth](https://github.com/EzAkshat/Nuera_auth) | Auth service — JWT, bcrypt, MongoDB user management |
 
----
-
-#### [FastAPI Auth Backend](https://github.com/EzAkshat)
-> Lightweight REST API backend with JWT-based authentication and MongoDB persistence.
-
-- Stateless JWT auth with access/refresh token rotation
-- Password hashing via bcrypt, input validation with Pydantic
-- MongoDB with Motor (async driver) for non-blocking queries
-- Clean project structure: routers, models, services, middleware separated
-
-`Python` `FastAPI` `MongoDB` `JWT` `Pydantic` `Motor`
+`Python` `FastAPI` `ElevenLabs` `MongoDB` `JWT` `AsyncIO`
 
 ---
 
