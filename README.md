@@ -65,13 +65,6 @@ Fresher developer working across Python backends, AI integrations, and cybersecu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EzAkshat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzAkshat&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=EzAkshat&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
