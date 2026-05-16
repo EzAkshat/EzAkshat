@@ -1,31 +1,29 @@
 <div align="center">
- 
-# Hey there, I'm Akshat 👋
+
+# Akshat Naik
 
 **Python · Backend · AI Integrations · Cybersecurity**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naik-akshat)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Akshatnaik94@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/EzAkshat)
-![Profile Views](https://komarev.com/ghpvc/?username=EzAkshat&style=flat&Color=555)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naik-akshat)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Akshatnaik94@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EzAkshat)
+![Profile Views](https://komarev.com/ghpvc/?username=EzAkshat&style=flat-square&Color=555)
 
 </div>
 
 ---
 
-### About
-  
-Cybersecurity-focused learner with experience in Python backends and AI integrations. I enjoy understanding how systems are designed, how they can be exploited, and how they can be secured. Currently learning VAPT methodologies, OWASP Top 10, SIEM tools, and practical security assessment techniques.
+Cybersecurity-focused developer with a background in Python backends and AI integrations. I'm drawn to understanding how systems are built, where they break, and how to make them resilient. Currently going deep on VAPT methodologies, OWASP Top 10, SIEM tooling, and hands-on security assessment.
 
 ---
 
-### 🚀 Projects
+## Projects
 
-#### Nuera — AI Desktop Assistant
+### Nuera — AI Desktop Assistant
 
-> Voice-driven AI assistant built across 3 services.
+> A voice-driven AI assistant architected across three independent services.
 
-| Repo | Role |
+| Repository | Responsibility |
 |---|---|
 | [Nuera_App](https://github.com/EzAkshat/Nuera_App) | Desktop client — voice I/O, ElevenLabs TTS, LLM integration |
 | [Nuera_backend](https://github.com/EzAkshat/Nuera_backend) | Core API — request routing, LLM calls, business logic |
@@ -33,9 +31,17 @@ Cybersecurity-focused learner with experience in Python backends and AI integrat
 
 `Python` `FastAPI` `ElevenLabs` `MongoDB` `JWT` `AsyncIO`
 
+### BasicBot — Binance Futures Trading Bot
+
+> A modular Python trading bot for the Binance USDT-M Futures Testnet with market/limit orders, exchange-level validation, structured logging, and automatic retries.
+
+[View Repository](https://github.com/EzAkshat/binance-futures-bot)
+
+`Python` `python-binance` `tenacity` `python-dotenv` `REST APIs`
+
 ---
 
-### 🛠️ Tech Stack
+## Tech Stack
 
 **Backend & APIs**
 `Python` `FastAPI` `REST APIs` `Node.js` `JWT` `MongoDB`
@@ -47,11 +53,25 @@ Cybersecurity-focused learner with experience in Python backends and AI integrat
 `OWASP Top 10` `VAPT` `Network Security` `Ethical Hacking`
 
 **Tooling**
-`Git` `GitHub` `Linux` `VS Code` `Postman`
+`Git` `GitHub` `Linux` `VS Code` `Postman` `Burp Suite` `Wireshark`
 
 ---
 
-### 📊 Stats
+## Currently Learning
+
+```text
+✅  Python · FastAPI · MongoDB · JWT · REST APIs
+🔄  SIEM Tools — Splunk, Wazuh
+🔄  Penetration Testing & VAPT workflows
+📌  Burp Suite · Metasploit · Wireshark
+📌  CompTIA Security+ / CEH
+📌  Cloud Security — AWS / GCP
+📌  CTF practice on HackTheBox & TryHackMe
+```
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -61,7 +81,7 @@ Cybersecurity-focused learner with experience in Python backends and AI integrat
 
 ---
 
-### 🐍 Contributions
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EzAkshat/EzAkshat/output/github-contribution-grid-snake-dark.svg" />
@@ -71,14 +91,8 @@ Cybersecurity-focused learner with experience in Python backends and AI integrat
 
 ---
 
-### 🎯 Currently Learning
+<div align="center">
 
-```
- ✅  Python / FastAPI / MongoDB / JWT / REST APIs
- 🔄  SIEM Tools — Splunk, Wazuh
- 🔄  Penetration Testing & VAPT workflows
- 📌  Burp Suite, Metasploit, Wireshark
- 📌  CompTIA Security+ / CEH
- 📌  Cloud Security basics (AWS / GCP)
- 📌  CTF practice on HackTheBox & TryHackMe
-```
+*Building things. Breaking things. Learning why.*
+
+</div>
