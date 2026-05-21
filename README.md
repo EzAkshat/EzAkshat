@@ -11,11 +11,7 @@
 
 </div>
 
----
-
 Cybersecurity-focused developer with a background in Python backends and AI integrations. I'm drawn to understanding how systems are built, where they break, and how to make them resilient. Currently going deep on VAPT methodologies, OWASP Top 10, SIEM tooling, and hands-on security assessment.
-
----
 
 ## Projects
 
@@ -24,7 +20,7 @@ Cybersecurity-focused developer with a background in Python backends and AI inte
 > A voice-driven AI assistant architected across three independent services.
 
 | Repository | Responsibility |
-|---|---|
+|:---|:---|
 | [Nuera_App](https://github.com/EzAkshat/Nuera_App) | Desktop client — voice I/O, ElevenLabs TTS, LLM integration |
 | [Nuera_backend](https://github.com/EzAkshat/Nuera_backend) | Core API — request routing, LLM calls, business logic |
 | [Nuera_auth](https://github.com/EzAkshat/Nuera_auth) | Auth service — JWT, bcrypt, MongoDB user management |
@@ -38,8 +34,6 @@ Cybersecurity-focused developer with a background in Python backends and AI inte
 [View Repository](https://github.com/EzAkshat/binance-futures-bot)
 
 `Python` `python-binance` `tenacity` `python-dotenv` `REST APIs`
-
----
 
 ## Tech Stack
 
@@ -55,21 +49,15 @@ Cybersecurity-focused developer with a background in Python backends and AI inte
 **Tooling**
 `Git` `GitHub` `Linux` `VS Code` `Postman` `Burp Suite` `Wireshark`
 
----
-
 ## Currently Learning
 
-```text
-✅  Python · FastAPI · MongoDB · JWT · REST APIs
-🔄  SIEM Tools — Splunk, Wazuh
-🔄  Penetration Testing & VAPT workflows
-📌  Burp Suite · Metasploit · Wireshark
-📌  CompTIA Security+ / CEH
-📌  Cloud Security — AWS / GCP
-📌  CTF practice on HackTheBox & TryHackMe
-```
-
----
+- ✅ Python · FastAPI · MongoDB · JWT · REST APIs
+- 🔄 SIEM Tools — Splunk, Wazuh
+- 🔄 Penetration Testing & VAPT workflows
+- 📌 Burp Suite · Metasploit · Wireshark
+- 📌 CompTIA Security+ / CEH
+- 📌 Cloud Security — AWS / GCP
+- 📌 CTF practice on HackTheBox & TryHackMe
 
 ## GitHub Stats
 
@@ -77,9 +65,9 @@ Cybersecurity-focused developer with a background in Python backends and AI inte
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=EzAkshat&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-</div>
+[![GitHub Stats](https://ezakshat-statsvercelapp.vercel.app/api?username=EzAkshat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/EzAkshat)
 
----
+</div>
 
 ## Contributions
 
@@ -88,8 +76,6 @@ Cybersecurity-focused developer with a background in Python backends and AI inte
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EzAkshat/EzAkshat/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/EzAkshat/EzAkshat/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
----
 
 <div align="center">
 
