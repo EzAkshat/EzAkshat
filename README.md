@@ -63,7 +63,7 @@ Cybersecurity-focused developer with a background in Python backends and AI inte
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EzAkshat&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=EzAkshat&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://ezakshat-statsvercelapp.vercel.app/api?username=EzAkshat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/EzAkshat)
 
